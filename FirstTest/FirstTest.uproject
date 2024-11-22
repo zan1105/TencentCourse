@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7C5CFDE5-4B32-679C-5D7D-E79B0C77D0AE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FirstTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
